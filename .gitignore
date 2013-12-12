@@ -3,7 +3,6 @@ components
 .sass-cache
 node_modules
 .grunt
-build
 
 *.sublime-project
 *.sublime-workspace
